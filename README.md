@@ -3,10 +3,8 @@ description: Leetcode刷题整理
 ---
 
 # Practice Order
-
-{% embed data="{\"url\":\"https://cspiration.com/leetcodeClassification\#10402\",\"type\":\"link\",\"title\":\"Leetcode 分类顺序第二版\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cspiration.com/favicon.ico\",\"aspectRatio\":0}}" %}
-
-  
+https://www.cspiration.com/#/leetcodeClassification
+ 
 [http://www.1point3acres.com/bbs/thread-224104-1-1.html](http://www.1point3acres.com/bbs/thread-224104-1-1.html)
 
 ## 刷题之道：
